@@ -8,3 +8,4 @@ class Logout extends StatelessWidget {
     );
   }
 }
+Example
